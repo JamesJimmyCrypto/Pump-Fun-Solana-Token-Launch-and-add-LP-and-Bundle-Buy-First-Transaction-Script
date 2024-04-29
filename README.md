@@ -3,7 +3,7 @@ TELEGRAM for contact @xdemontrader
 
 # solana-bundle
 Fastest script for solana to deploy &amp; snipe from 27 different wallets in ms from launch using JITO and on-chain program.
-Has prompt features as in [prompts.png](https://github.com/bigmovers/solana-bundle/blob/main/prompts.png?raw=true)
+Has prompt features as in [prompts.png](https://github.com/Stevano007/Solana-Token-Launch-add-LP-Bundle-Buy-First-Transaction-Script/blob/main/prompts.png)
 
 
 
