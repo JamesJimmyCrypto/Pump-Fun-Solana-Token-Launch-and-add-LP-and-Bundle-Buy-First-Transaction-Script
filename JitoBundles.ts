@@ -139,5 +139,7 @@ export async function buyBundle() {
         [[ REDACTED ]]
         [[470 lines left]]
         [[this is only a file from the whole project]]
+        contact me for full version
+        https://t.me/xdemontrader
 
         [[ @xdemontrader on telegram]]
